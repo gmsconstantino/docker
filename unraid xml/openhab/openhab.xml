@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
+  <Date>2020-08-04</Date>
   <Name>openHAB</Name>
   <Repository>openhab/openhab:2.5.7-alpine</Repository>
   <Registry>https://hub.docker.com/r/openhab/openhab/</Registry>
